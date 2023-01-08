@@ -1,0 +1,14 @@
+#menu{
+    background: linear-gradient(to right , #107c0f, black) !important;
+}
+
+#logo a{
+    color: #107c0f !important;
+}
+
+body {
+
+    background: linear-gradient(to left, #107c0f, black) !important;
+
+
+}
